@@ -1,0 +1,24 @@
+.login_title{
+    vertical-align: -5px;
+    font-weight: 700;
+}
+
+.login_title.spark{
+    color: #8BC53F;
+}
+.login_title.com{
+    color: #6D6E70;
+}
+
+.auth_btn{
+    background: #318E07;
+    border-color: #318E07;
+}
+
+.auth_btn:hover{
+    background: #0B7405;
+    border-color: #0B7405;
+}
+.help-block{
+    color: #ef3333;
+}
